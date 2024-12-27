@@ -66,8 +66,6 @@ const Contact = ({ setEmailResult, setShowLoading }) => {
       });
       form.current.reset();
     } catch (error) {
-      console.log("error", error);
-
       setShowLoading(false);
       setEmailResult({
         status: true,
