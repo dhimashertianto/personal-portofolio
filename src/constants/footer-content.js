@@ -1,4 +1,4 @@
-const title = "Kurniawan Gigih Lutfi Umam";
+const title = "Dhimas Hertianto";
 const button = [
   {
     title: "Home",
@@ -21,16 +21,8 @@ const button = [
     id: "#portfolio",
   },
   {
-    title: "Another Project",
-    id: "#project",
-  },
-  {
     title: "Certificate",
     id: "#certificate",
-  },
-  {
-    title: "Awards",
-    id: "#awards",
   },
   {
     title: "Contact",
